@@ -47,7 +47,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Office Hours
 
-- TBD
+- George: Tuesdays from 6:30PM to 8:30PM at GA.
+- Ivan: Variable and per request.  (via Slack, phone, ...)
 
 ## Slack
 
