@@ -43,7 +43,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **Associate Instructor:** [George McIntire](mailto:geo.mcintire@gmail.com)
 
-**Course Producer:** [Tim Payne](mailto:timothy.payne@generalassemb.ly)
+**Course Producer:** [Vanessa Ohta](mailto:vanessa@generalassemb.ly)
 
 ## Office Hours
 
