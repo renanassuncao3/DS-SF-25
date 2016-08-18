@@ -23,7 +23,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 4 | 8/8 | [Introduction to Classification](./classes/08) | **[Final Project 1](./final-project/1)** |
 | 5 | 8/10 | [Introduction to Logistic Regression](./classes/09) | |
 | 5 | 8/15 | [Flexible Class Session: Machine Learning Modeling](./classes/10) | **[Final Project 2](./final-project/2)** |
-| 6 | 8/17 | Advanced Metrics and Communicating Results | **[Unit Project 3](./unit-projects/3)** |
+| 6 | 8/17 | [Advanced Metrics and Communicating Results](./classes/11) | **[Unit Project 3](./unit-projects/3)** |
 | | | **Unit 3 - Data Science in the Real World** | |
 | 6 | 8/22 | Decision Trees and Random Forests | |
 | 7 | 8/24 | Natural Language Processing and Text Classification | **[Final Project 3](./final-project/3)** |
