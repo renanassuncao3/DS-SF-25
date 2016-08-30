@@ -27,7 +27,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | | | **Unit 3 - Data Science in the Real World** | |
 | 6 | 8/22 | [Decision Trees and Random Forests](./classes/12) | |
 | 7 | 8/24 | [Natural Language Processing and Text Classification](./classes/13) | **[Final Project 3](./final-project/3)** |
-| 7 | 8/29 | Latent Variables and Natural Language Processing | |
+| 7 | 8/29 | [Latent Variables and Natural Language Processing](./classes/14) | |
 | 8 | 8/31 | Time Series Data | **[Unit Project 4](./unit-projects/4)** |
 | 8 | 9/7 | Time Series Data, Part 2 | |
 | 9 | 9/12 | Introduction to Databases | **[Final Project 4](./final-project/4)** |
