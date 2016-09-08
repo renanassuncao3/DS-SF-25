@@ -29,7 +29,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 7 | 8/24 | [Natural Language Processing and Text Classification](./classes/13) | **[Final Project 3](./final-project/3)** |
 | 7 | 8/29 | [Latent Variables and Natural Language Processing](./classes/14) | |
 | 8 | 8/31 | [Time Series Data](./classes/15) | **[Unit Project 4](./unit-projects/4)** |
-| 8 | 9/7 | Time Series Data, Part 2 | |
+| 8 | 9/7 | [Time Series Data, Part 2](./classes/16) | |
 | 9 | 9/12 | Introduction to Databases | **[Final Project 4](./final-project/4)** |
 | 9 | 9/14 | Wrapping Up and Next Steps | |
 | 10 | 9/19 | Final Project Presentations | **[Final Project 5](./final-project/5)** |
