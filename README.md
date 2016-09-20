@@ -32,7 +32,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 8 | 9/7 | [Time Series Data, Part 2](./classes/16) | |
 | 9 | 9/12 | [Introduction to Databases](./classes/17) | **[Final Project 4](./final-project/4)** |
 | 9 | 9/14 | [Wrapping Up and Next Steps](./classes/18) | |
-| 10 | 9/19 | Flexible Class Session: Market Segmentation | |
+| 10 | 9/19 | [Flexible Class Session: Market Segmentation](./classes/19) | |
 | 10 | 9/21 | Final Project Presentations | **[Final Project 5](./final-project/5)** |
 
 (Syllabus last updated on 9/12)
